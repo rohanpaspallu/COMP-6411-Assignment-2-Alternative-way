@@ -1,1 +1,7 @@
-# COMP-6411-Assignment-2-Alternative-way
+# treasure
+
+A Clojure app to ... well, that part is up to you.
+
+## Usage
+
+FIXME
